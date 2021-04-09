@@ -8,7 +8,7 @@ https://github.com/GladyshevVitaly/Recommendation_System/blob/main/cw_eda_glvv.i
 
 https://github.com/GladyshevVitaly/Recommendation_System/blob/main/src/metrics.py
 
-### подготовка данных: 
+### подготовка и фильтрация данных: 
 
 https://github.com/GladyshevVitaly/Recommendation_System/blob/main/src/utils.py
 
